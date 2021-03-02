@@ -1,0 +1,20 @@
+{
+  "name": "coinmigo",
+  "version": "1.0.0",
+  "description": "A crypto trading platform that promises the full benefits of the blockchain technology",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ezihe-godswill/coinmigo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ezihe-godswill/coinmigo/issues"
+  },
+  "homepage": "https://github.com/ezihe-godswill/coinmigo#readme"
+}
